@@ -1,4 +1,4 @@
 # demo
-This is my first repository
+Just started learning git and this is my first repository
 <br>
-owner-Apurva Singh
+Owner-Apurva Singh(aprvsng)
