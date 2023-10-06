@@ -1,5 +1,5 @@
-# REPO
 Just started learning git and this is my first repo containing basics of markdown file i.e, md files
+
 # HEADING 1
 ## HEADING 2
 ### HEADING 3
