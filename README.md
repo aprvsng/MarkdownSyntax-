@@ -9,9 +9,17 @@ Just started learning git and this is my first repo containing basics of markdow
 
 _Italics_
 
-** strong/bold **
+*** strong/bold ***
 
 ~~Scratch~~
 
-Links 
+Links -
 [visit website](https://www.youtube.com/ "youtube")
+
+Tables 
+
+|Tables |Goes |Here |
+|--- |--- |---|
+|one |two |three|
+
+>Quotes
